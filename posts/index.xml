@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>롬의 노트</title>
-    <link>https://roam10.github.io/</link>
-    <description>Recent content on 롬의 노트</description>
+    <title>Posts on 롬의 노트</title>
+    <link>https://roam10.github.io/posts/</link>
+    <description>Recent content in Posts on 롬의 노트</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://roam10.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0900</lastBuildDate><atom:link href="https://roam10.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>바위 굴리기</title>
       <link>https://roam10.github.io/posts/%EB%B0%94%EC%9C%84_%EA%B5%B4%EB%A6%AC%EA%B8%B0/</link>
